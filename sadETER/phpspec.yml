@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: sadETER
+        psr4_prefix: sadETER
+        src_path: app
